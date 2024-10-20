@@ -5,9 +5,9 @@ online streaming site called as "CINEVERSE"
 
 ## Table of contents
 
-Movies
-TV Shows
-Cartoons
-Sports
-Games
+### Movies,
+### TV Shows,
+### Cartoons,
+### Sports,
+### Games, 
 and many more to watch......
